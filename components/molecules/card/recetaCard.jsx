@@ -24,7 +24,7 @@ const RecetaCard = ({ receta }) => {
           {receta.nombre}
         </h2>
         <p className="text-gray-600 mb-2">
-          Tiempo: {receta.tiempo_preparacion}
+          {receta.personas} / {receta.tiempo_preparacion}{" "}
         </p>
         <h3 className="text-lg font-semibold text-primary-700 mb-2">
           Ingredientes:
