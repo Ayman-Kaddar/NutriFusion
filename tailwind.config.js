@@ -13,14 +13,13 @@ module.exports = {
       xl: "1200px",
     },
     extend: {
-      fontFamily: {
-        horizon: ['"Horizon"', "sans-serif"],
-        horizon_outlined: ['"Horizon_outlined"', "sans-serif"],
-        notosans: ['"Noto Sans"', "sans-serif"],
-      },
+
       colors: {
         primary: {
           500: "#fefcf4",
+        },
+        secondary: {
+          300: "#F0F4EB",
         },
       },
     },

@@ -1,11 +1,9 @@
 export default async function CookiesPolicy() {
   return (
-    <div className="flex flex-col w-full text-justify container mx-auto my-24 gap-4 px-8 font-notosans">
+    <div className="flex flex-col w-full text-justify container mx-auto my-24 gap-4 px-8">
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-12 justify-center">
-          <h3 className="text-primary-300 text-2xl font-horizon">
-            POLÍTICA DE COOKIES
-          </h3>
+          <h3 className="text-primary-300 text-2xl">POLÍTICA DE COOKIES</h3>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
           <p className="text-primary-100 text-lg">
@@ -57,9 +55,7 @@ export default async function CookiesPolicy() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-300 text-xl font-horizon">
-            Cookies de terceros
-          </h4>
+          <h4 className="text-primary-300 text-xl">Cookies de terceros</h4>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
           <p className="text-primary-100 text-lg">
@@ -108,7 +104,7 @@ export default async function CookiesPolicy() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-2 text-lg">
         <div className="flex w-full my-4 justify-center">
-          <h4 className="text-primary-300 text-xl font-horizon">
+          <h4 className="text-primary-300 text-xl">
             Deshabilitar, rechazar y eliminar cookies
           </h4>
         </div>

@@ -5,7 +5,7 @@
         "alt": "Ensalada de Quinoa con Crudités",
         "nombre": "Ensalada de Quinoa con Crudités",
         "persona": "Con 2 personas ",
-        "tiempo_preparacion": "25 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "150 g de quinoa",
           "1 cebolla morada, picada",
@@ -20,10 +20,14 @@
           "Sal"
         ],
         "instrucciones": [
-          "Enjuaga la quinoa bajo agua fría y escúrrela bien. Luego, en una cacerola, lleva a ebullición el doble de cantidad de agua que de quinoa, sazonada con sal.",
-          "Agrega la quinoa y cocina a fuego medio tapado durante unos 20 minutos, o hasta que esté tierna y haya absorbido el agua. Escurre cualquier exceso de líquido y deja enfriar.",
+          "Enjuaga la quinoa bajo agua fría y escúrrela bien.",
+          "Luego, en una cacerola, lleva a ebullición el doble de cantidad de agua que de quinoa, sazonada con sal.",
+          "Agrega la quinoa y cocina a fuego medio tapado durante unos 20 minutos, o hasta que esté tierna y haya absorbido el agua.",
+          "Escurre cualquier exceso de líquido y deja enfriar.",
           "Transfiere la quinoa cocida a un tazón grande y agrega la cebolla morada, el apio, la zanahoria y los pimientos cortados en daditos.",
-          "Aliña la ensalada con aceite de oliva virgen extra, pimienta y sal al gusto. Espolvorea las hierbas frescas picadas por encima y mezcla suavemente. Sirve de inmediato o refrigera hasta el momento de servir."
+          "Aliña la ensalada con aceite de oliva virgen extra, pimienta y sal al gusto.",
+          "Espolvorea las hierbas frescas picadas por encima y mezcla suavemente.",
+          "Sirve de inmediato o refrigera hasta el momento de servir."
         ]
       },
       {
@@ -31,7 +35,7 @@
         "alt": "Macarrones con Gambas al Horno",
         "nombre": "Macarrones con Gambas al Horno",
         "persona": "Con 4 personas ",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "300 g de macarrones",
           "1 puerro, cortado en rodajas finas",
@@ -40,14 +44,15 @@
           "300 ml de crema de avena",
           "1 cucharadita de orégano seco",
           "100 g de queso emmental rallado",
-          "Orégano fresco",
-          "Pimienta rosa en grano",
-          "Aceite de oliva virgen extra",
+          "Orégano fresco, para decorar",
+          "Pimienta rosa en grano, para decorar",
+          "Aceite de oliva virgen extra, para saltear",
           "Sal"
         ],
         "instrucciones": [
           "Precalienta el horno a 200 °C.",
-          "En una sartén grande, calienta un poco de aceite de oliva a fuego medio y saltea el puerro hasta que esté tierno y translúcido. Luego, agrega el calabacín y cocina por unos minutos hasta que esté dorado.",
+          "En una sartén grande, calienta un poco de aceite de oliva a fuego medio y saltea el puerro hasta que esté tierno y translúcido.",
+          "Luego, agrega el calabacín y cocina por unos minutos hasta que esté dorado.",
           "Incorpora las gambas cocidas y peladas a la sartén y saltea por un minuto adicional.",
           "Vierte la crema de avena sobre la mezcla de gambas y verduras, agrega el orégano seco y cocina por un par de minutos más hasta que la salsa esté ligeramente espesa. Retira del fuego.",
           "Mientras tanto, cocina los macarrones en agua hirviendo con sal según las instrucciones del paquete, hasta que estén al dente. Escurre bien.",
@@ -60,12 +65,12 @@
         "image": "assets/images/PEPINOS_ENSALADA_DE_ARROZ.webp",
         "alt": "Pepinos rellenos de ensalada de arroz",
         "nombre": "Pepinos rellenos de ensalada de arroz",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "persona": "Con 4 personas ",
         "ingredientes": [
           "2 pepinos",
           "200 g de arroz largo",
-          "2 zanahorias picadas",
+          "2 zanahorias, picadas",
           "1 lata de 80 g de atún",
           "4 cucharadas de aceitunas verdes deshuesadas",
           "50 g de maíz dulce",
@@ -87,57 +92,57 @@
         "image": "assets/images/judias_verdes_con_patata.webp",
         "alt": "Judías verdes con patata y sepia",
         "nombre": "Judías verdes con patata y sepia",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "persona": "Con 2 personas",
         "ingredientes": [
           "200 g de sepia",
           "200 g de judías verdes troceadas",
           "200 g de patatas troceadas",
-          "1 diente de ajo en láminas",
-          "Perejil",
-          "Aceite de oliva",
-          "Pimienta",
-          "Sal"
+          "1 diente de ajo, cortado en láminas",
+          "Perejil, picado fino",
+          "Aceite de oliva, para cocinar",
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
-          "Cuece las patatas en agua salada durante 5 minutos. Añade las judías verdes, prosigue la cocción 10 minutos y escurre las dos.",
-          "Limpia la sepia, lávala, sécala y trocéala. Lava también el perejil y pícalo fino.",
-          "Calienta 4 cucharadas de aceite en una sartén antiadherente, agrega los ajos y dóralos 1 minuto.",
-          "Incorpora las judías verdes y las patatas, saltea todo junto durante 4 minutos y condimenta con sal, pimienta y el perejil.",
-          "Saltea la sepia en una sartén con 2 cucharadas de aceite, hasta que se dore por todos lados. Retírala y sazónala.",
+          "Cuece las patatas en agua salada durante 5 minutos. Añade las judías verdes y continúa la cocción durante 10 minutos más. Escurre ambas.",
+          "Limpia la sepia, lávala, sécala y trocéala. También lava el perejil y pícalo finamente.",
+          "Calienta 4 cucharadas de aceite de oliva en una sartén antiadherente. Agrega los ajos y dóralos durante 1 minuto.",
+          "Incorpora las judías verdes y las patatas, saltea todo junto durante 4 minutos y condimenta con sal, pimienta y el perejil picado.",
+          "Saltea la sepia en otra sartén con 2 cucharadas de aceite de oliva, hasta que esté dorada por todos lados. Luego, retírala y sazónala al gusto.",
           "Reparte las judías y las patatas en platos, agrega la sepia y sirve.",
-          "Añade a la sartén, a la vez que las hortalizas, unos trocitos de jamón curado o de beicon."
+          "Opcionalmente, puedes añadir a la sartén, junto con las hortalizas, unos trocitos de jamón curado o beicon."
         ]
       },
       {
         "image": "assets/images/HAMBURGUESAS_DE_QUINOA_Y_VERDURAS.webp",
         "alt": "Hamburguesas de quinoa y verduras con tomate",
         "nombre": "Hamburguesas de quinoa y verduras con tomate",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "persona": "Con 2 personas ",
         "ingredientes": [
-          "2 huevos cocidos en rodajas",
+          "2 huevos cocidos, en rodajas",
           "150 g de quinoa cocida",
-          "½ puerro picado",
+          "½ puerro, picado",
           "1 zanahoria rallada",
-          "½ cebolla morada picada",
+          "½ cebolla morada, picada",
           "Harina de garbanzo",
-          "1 cucharada de queso cheddar cortado en dados muy pequeños",
-          "1 tomate pera duro en rodajas",
+          "1 cucharada de queso cheddar, cortado en dados muy pequeños",
+          "1 tomate pera, cortado en rodajas",
           "50 g de brotes tiernos variados",
-          "1 rabanito en rodajas",
+          "1 rabanito, en rodajas",
           "Unas hojas de rúcula",
-          "Aceite de oliva",
-          "Pimienta",
-          "Sal"
+          "Aceite de oliva, para freír",
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
-          "Calienta la quinoa ligeramente y pásala a un bol grande.",
-          "Pon el puerro en un recipiente apto para el microondas, vierte medio dedo de agua, tapa y cuece 2 minutos. Remueve con cuidado de no quemarte, cuece 1 minuto más y escúrrelo.",
-          "Mezcla la quinoa con el puerro, la zanahoria, la cebolla, el queso, pimienta y sal. Agrega los huevos restantes, uno a uno y removiendo.",
+          "Calienta ligeramente la quinoa y pásala a un bol grande.",
+          "Pon el puerro en un recipiente apto para microondas, vierte medio dedo de agua, tapa y cuece durante 2 minutos. Remueve con cuidado para evitar quemaduras, cuece 1 minuto más y escúrrelo.",
+          "Mezcla la quinoa con el puerro, la zanahoria, la cebolla, el queso cheddar, pimienta y sal. Agrega los huevos restantes, uno a uno y removiendo.",
           "Añade 2 cucharadas rasas de harina de garbanzo y mezcla hasta integrarla.",
-          "Forma 4 bolas con la masa anterior, aplástalas un poco para hacer 4 hamburguesas y rebózalas con harina de garbanzo. Fríe en la sartén.",
-          "Cubre 2 hamburguesas con el tomate, el huevo y los brotes, y coloca encima las demás."
+          "Forma 4 bolas con la masa anterior, aplástalas un poco para hacer 4 hamburguesas y rebózalas con harina de garbanzo. Fríe en la sartén con aceite de oliva.",
+          "Cubre 2 hamburguesas con el tomate, el huevo y los brotes, y coloca las otras 2 encima."
         ]
       },
       {
@@ -145,27 +150,27 @@
         "alt": "Salteado oriental de ternera con verduras",
         "nombre": "Salteado oriental de ternera con verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
-          "400 g de filetes finos de ternera",
-          "100 g de champiñones en láminas",
-          "2 pimientos verdes en tiras",
-          "1 pimiento rojo en tiras",
-          "2 zanahorias en juliana",
-          "1 cebolla en juliana",
+          "400 g de filetes finos de ternera, cortados en tiras",
+          "100 g de champiñones, en láminas",
+          "2 pimientos verdes, en tiras",
+          "1 pimiento rojo, en tiras",
+          "2 zanahorias, en juliana",
+          "1 cebolla, en juliana",
           "2 cucharadas de salsa de soja",
           "1 cucharada de semillas de sésamo",
-          "Cilantro",
-          "Harina",
-          "Aceite de oliva",
-          "Pimienta",
-          "Sal"
+          "Cilantro, picado",
+          "Harina, para enharinar",
+          "Aceite de oliva, para cocinar",
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
-          "Corta en tiras los filetes, salpimiéntalos y enharínalos ligeramente.",
-          "Calienta un wok y cuando empiece a humear agrega un hilo de aceite. Ve añadiendo las hortalizas, por tandas, y saltéalas 1 minuto.",
-          "Añade otro hilo de aceite y saltea también la ternera un par de minutos, hasta que se dore.",
-          "Incorpora de nuevo las verduras y añade la salsa de soja. Saltea todo junto unos minutos, espolvorea con el sésamo y el cilantro lavado y picado, y sirve."
+          "Corta los filetes en tiras, sazónalas con sal y pimienta, y enharínalas ligeramente.",
+          "Calienta un wok y cuando esté bien caliente, agrega un hilo de aceite. Añade las hortalizas por tandas y saltéalas durante 1 minuto.",
+          "Agrega otro hilo de aceite y saltea la ternera durante un par de minutos, hasta que esté dorada.",
+          "Vuelve a incorporar las verduras al wok, añade la salsa de soja y saltea todo junto durante unos minutos. Espolvorea con las semillas de sésamo y el cilantro picado, y sirve."
         ]
       },
       {
@@ -173,19 +178,20 @@
         "alt": "Tomates rellenos de atún y encurtidos",
         "nombre": "Tomates rellenos de atún y encurtidos",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "4 tomates",
-          "175 g de atún en conserva",
+          "175 g de atún en conserva, escurrido",
           "150 g de mayonesa",
-          "125 g de aceitunas rellenas de anchoa",
-          "4 pepinillos en vinagre",
-          "8 aceitunas negras"
+          "125 g de aceitunas rellenas de anchoa, picadas",
+          "4 pepinillos en vinagre, picados",
+          "8 aceitunas negras, picadas"
         ],
         "instrucciones": [
           "Lava los tomates, sécalos y corta la parte superior. Reserva la tapa de los tomates y retira la pulpa.",
           "Escurre los pepinillos, pícalos y reserva unos cuantos para decorar. Pica las aceitunas verdes, pica igualmente las negras y reserva 2 cortadas en rodajas para decorar.",
-          "Mezcla el atún escurrido con las aceitunas, los pepinillos y la mayonesa. Rellena los tomates con la mezcla, coloca la tapa, y sírvelos decorado con los pepinillos y las aceitunas en rodajas."
+          "Mezcla el atún escurrido con las aceitunas, los pepinillos y la mayonesa.",
+          "Rellena los tomates con la mezcla, coloca la tapa y sírvelos decorados con los pepinillos y las aceitunas en rodajas."
         ]
       },
       {
@@ -193,21 +199,21 @@
         "alt": "Sardinas en papillote con verduras",
         "nombre": "Sardinas en papillote con verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "25 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "½ kg de sardinas en filetes",
-          "2 zanahorias en juliana",
-          "2 patatas en láminas",
-          "1 calabacín en juliana",
-          "1 ramita de romero",
+          "2 zanahorias, en juliana",
+          "2 patatas, en láminas",
+          "1 calabacín, en juliana",
+          "1 ramita de romero, lavado",
           "Aceite de oliva",
-          "2 dientes de ajo en láminas",
-          "Sal"
+          "2 dientes de ajo, en láminas",
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Precalienta el horno a 200 ºC. Corta cuatro trozos de papel sulfurizado para hacer los paquetes.",
-          "Coloca en el centro una base de patata y sazona ligeramente. Dispón el calabacín y la zanahoria por encima.",
-          "Cubre las verduras con varios filetes de sardina. Agrega un trocito de romero lavado y unas láminas de ajo.",
+          "Coloca en el centro una base de patata y sazónala ligeramente. Dispón el calabacín y la zanahoria por encima.",
+          "Cubre las verduras con varios filetes de sardina. Agrega un trozo de romero lavado y unas láminas de ajo.",
           "Dobla el papel sobre el relleno formando unos paquetes bien sellados y átalos con hilo de cocina. Hornea durante 15 minutos.",
           "Deja reposar los paquetes unos minutos antes de abrirlos. Riega el pescado con un hilo de aceite y sirve enseguida."
         ]
@@ -217,26 +223,26 @@
         "alt": "Lasaña vegetal",
         "nombre": "Lasaña vegetal",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 paquete de placas de lasaña precocida",
-          "200 g de champiñones",
+          "200 g de champiñones, en láminas",
           "200 g de espinacas frescas",
-          "3 zanahorias en dados",
-          "1 calabacín en dados",
-          "1 berenjena en dados",
+          "3 zanahorias, en dados",
+          "1 calabacín, en dados",
+          "1 berenjena, en dados",
           "200 g de salsa de tomate",
           "500 ml de leche desnatada",
           "100 g de queso rallado",
           "1 cucharada de harina",
           "Aceite de oliva",
-          "Sal"
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Precalienta el horno a 170ºC. Calienta en una sartén dos cucharadas de aceite de oliva y tuesta la harina. Vierte la leche en un hilo sin dejar de mover. Sazona y cocina hasta que espese.",
-          "Cuece las espinacas al vapor y mézclalas con un poco de bechamel. Sofríe el calabacín y la zanahoria 2 minutos, incorpora la berenjena y cocina 4 minutos, añade los champiñones y déjalo cocinar durante 2 minutos más.",
+          "Cuece las espinacas al vapor y mézclalas con un poco de bechamel. Sofríe el calabacín y la zanahoria durante 2 minutos, luego incorpora la berenjena y cocina durante 4 minutos. Añade los champiñones y cocina durante 2 minutos más.",
           "Incorpora las espinacas a las verduras. Cuece la pasta según las instrucciones del fabricante y déjala escurrir en un paño de algodón.",
-          "Monta la lasaña alternando capas de pasta con verdura y salsa de tomate. Cubre con la bechamel restante, espolvorea con el queso rallado y hornea la lasaña durante 20 minutos."
+          "Monta la lasaña alternando capas de pasta con verduras y salsa de tomate. Cubre con la bechamel restante, espolvorea con el queso rallado y hornea la lasaña durante 20 minutos."
         ]
       },
       {
@@ -244,7 +250,7 @@
         "alt": "Coliflor gratinada con bechamel",
         "nombre": "Coliflor gratinada con bechamel",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 coliflor",
           "650 ml de leche",
@@ -252,15 +258,15 @@
           "75 g de mantequilla",
           "85 g de queso Emmental rallado",
           "Una pizca de nuez moscada",
-          "Pimienta",
-          "Sal"
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Limpia la coliflor, sepárala en ramitos y lávala. Cuécela en una cazuela con agua salada durante 10 minutos. Escúrrela y repártela en 4 cuencos refractarios.",
           "Funde la mantequilla en una sartén, añade la harina y tuéstala ligeramente, removiendo. Vierte la leche en un hilo, salpimienta y aromatiza con la nuez moscada.",
           "Deja cocer la mezcla, sin parar de remover con una cuchara de madera, hasta conseguir una salsa homogénea y ligeramente espesa.",
-          "Viértela sobre la coliflor, repartiéndola bien, y espolvorea con el queso.",
-          "Gratínala bajo el grill del horno unos minutos hasta que se dore la superficie."
+          "Vierte la bechamel sobre la coliflor, repartiéndola bien, y espolvorea con el queso rallado.",
+          "Gratina bajo el grill del horno unos minutos hasta que se dore la superficie."
         ]
       },
       {
@@ -268,22 +274,22 @@
         "alt": "Sartenada de arroz con pimientos y tomatitos",
         "nombre": "Sartenada de arroz con pimientos y tomatitos",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "320 g de arroz basmati cocido",
-          "1 pimiento rojo en dados",
-          "1 pimiento amarillo en dados",
-          "12 tomates cherry cortados por la mitad",
-          "1 cebolla picada fina",
+          "1 pimiento rojo, en dados",
+          "1 pimiento amarillo, en dados",
+          "12 tomates cherry, cortados por la mitad",
+          "1 cebolla, picada fina",
           "2 cucharadas de aceite de oliva",
-          "Orégano seco",
-          "Pimienta",
-          "Sal"
+          "Orégano seco al gusto",
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Calienta el aceite en una sartén grande y sofríe la cebolla y los pimientos durante 5 minutos.",
-          "Salpimienta y agrega los tomates. Remueve con una cuchara de madera y deja cocer unos 2 o 3 minutos más.",
-          "Agrega entonces el arroz y saltéalo unos instantes. Ajusta de sal y de pimienta, espolvorea con orégano y sirve."
+          "Salpimienta y agrega los tomates. Remueve con una cuchara de madera y deja cocer durante 2 o 3 minutos más.",
+          "Agrega entonces el arroz y saltéalo unos instantes. Ajusta de sal y pimienta, espolvorea con orégano y sirve."
         ]
       },
       {
@@ -291,7 +297,7 @@
         "alt": "Crema de hortalizas con garbanzos",
         "nombre": "Crema de hortalizas con garbanzos",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 patata pelada",
           "2 zanahorias medianas peladas",
@@ -300,12 +306,12 @@
           "1 cebolla pelada",
           "80 g de garbanzos cocidos en conserva",
           "2 o 3 lonchas de jamón curado",
-          "Pimentón dulce",
-          "Pimentón picante",
-          "Cúrcuma molida",
+          "Pimentón dulce al gusto",
+          "Pimentón picante al gusto",
+          "Cúrcuma molida al gusto",
           "Aceite de oliva",
-          "Pimienta",
-          "Sal"
+          "Pimienta al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Precalienta el horno a 180 °C. Desmenuza los ramitos de la coliflor y ralla el tronco, junto con el resto de las hortalizas.",
@@ -322,25 +328,25 @@
         "alt": "Filetes de pavo con champiñones",
         "nombre": "Filetes de pavo con champiñones",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "40 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "600 g de filetes de pavo",
           "150 g de champiñones pequeños",
           "1 cebolla en juliana",
           "100 ml de caldo de pollo",
           "150 ml de cava",
-          "Pimienta",
+          "Pimienta al gusto",
           "Aceite de oliva suave",
-          "Perejil picado",
-          "Sal"
+          "Perejil picado al gusto",
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Limpia los champiñones, lávalos y sécalos. Reserva algunos enteros y corta el resto en láminas.",
-          "Rehoga la cebolla en una sartén 15 minutos. Añade los champiñones cortados en láminas. Salpimiéntalos, remueve y prosigue la cocción hasta que se evapore el agua.",
+          "Rehoga la cebolla en una sartén durante 15 minutos. Añade los champiñones cortados en láminas. Salpimiéntalos, remueve y prosigue la cocción hasta que se evapore el agua.",
           "Retira el sofrito de la sartén, añade unas gotas de aceite y saltea los champiñones enteros; retíralos y resérvalos.",
-          "Salpimienta el pavo y dóralo en la sartén 2 minutos por cada lado.",
+          "Salpimienta los filetes de pavo y dóralos en la sartén durante 2 minutos por cada lado.",
           "Añade el sofrito, vierte el cava y déjalo reducir a fuego vivo. Agrega el caldo y, cuando hierva, baja la llama y cuece 3 minutos más.",
-          "Sirve el pavo con los champiñones enteros y espolvorea con el perejil."
+          "Sirve los filetes de pavo con los champiñones enteros y espolvorea con el perejil."
         ]
       },
       {
@@ -348,7 +354,7 @@
         "alt": "Sepia con alcachofas y champiñones",
         "nombre": "Sepia con alcachofas y champiñones",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "35 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "2 sepias limpias",
           "1 berenjena en dados",
@@ -357,15 +363,15 @@
           "3 alcachofas en rodajas",
           "200 g de champiñones",
           "2 dientes de ajo en láminas finas",
-          "Pimienta",
-          "Perejil picado",
+          "Pimienta al gusto",
+          "Perejil picado al gusto",
           "Aceite de oliva",
-          "Sal"
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Forra el interior de una fuente refractaria con una hoja de papel sulfurizado y añade todas las hortalizas. Salpimienta y remueve.",
-          "Lava las sepias, sécalas y salpimiéntalas también. Colócalas encima, rocía con 2 cucharadas de aceite y hornea 20 minutos.",
-          "Retira la fuente del horno y corta las sepias en trozos con un cuchillo. Sírvelas enseguida, con las verduras, los jugos de cocción, unas gotas de aceite y un poco más de perejil picado."
+          "Lava las sepias, sécalas y salpimiéntalas también. Colócalas encima, rocía con 2 cucharadas de aceite y hornea durante 20 minutos.",
+          "Retira la fuente del horno y corta las sepias en trozos con un cuchillo. Sírvelas enseguida, junto con las verduras, los jugos de cocción, unas gotas de aceite y un poco más de perejil picado."
         ]
       },
       {
@@ -373,7 +379,7 @@
         "alt": "Ensalada Multicolor",
         "nombre": "Ensalada Multicolor",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "15 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "Hojas de lechuga",
           "50 g de judías verdes cocidas",
@@ -384,7 +390,7 @@
           "1 cucharada de mostaza",
           "1 cucharada de vinagre balsámico",
           "Aceite de oliva",
-          "Sal"
+          "Sal al gusto"
         ],
         "instrucciones": [
           "Corta el huevo y la patata en rodajas, y el tomate en gajos. Mezcla la mostaza con el vinagre, el aceite y la sal.",
@@ -396,7 +402,7 @@
         "alt": "Rollitos de ternera con verduras",
         "nombre": "Rollitos de ternera con verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "45 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 45 minutos",
         "ingredientes": [
           "600 g de filetes de espalda de ternera",
           "1 cebolla roja",
@@ -421,7 +427,7 @@
         "alt": "Patatas rellenas de carne picada",
         "nombre": "Patatas rellenas de carne picada",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "25 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "6 patatas medianas, dependiendo del tamaño",
           "200 g de carne picada de ternera",
@@ -446,7 +452,7 @@
         "alt": "Conejo al horno con patatas",
         "nombre": "Conejo al horno con patatas",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 conejo troceado",
           "4 dientes de ajo picados finos",
@@ -470,7 +476,7 @@
         "alt": "Cuscús con huevo y hortalizas",
         "nombre": "Cuscús con huevo y hortalizas",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "35 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "400 ml de caldo de verduras",
           "200 g de cuscús precocido",
@@ -500,7 +506,7 @@
         "alt": "Brochetas de Pavo y Verduras",
         "nombre": "Brochetas de Pavo y Verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "45 minutos",
+        "tiempo_preparacion": "Tiempo de preparación:45 minutos",
         "ingredientes": [
           "750 g de pechuga de pavo en dados",
           "2 pimientos rojos",
@@ -521,7 +527,7 @@
         "alt": "Lubina asada con lima",
         "nombre": "Lubina asada con lima",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "2 lubinas limpias (de unos 350 g cada una)",
           "2 limas",
@@ -550,7 +556,7 @@
         "alt": "Berenjenas rellenas",
         "nombre": "Berenjenas rellenas",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "35 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "2 berenjenas",
           "2 bolas de mozzarella",
@@ -574,7 +580,7 @@
         "alt": "Crema de zanahoria",
         "nombre": "Crema de zanahoria",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "½ kg de zanahorias en rodajas",
           "1 cebolla en juliana",
@@ -599,7 +605,7 @@
         "alt": "Rulos de calabacín con brandada",
         "nombre": "Rulos de calabacín con brandada",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "15 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "2 calabacines medianos cortados en láminas finas",
           "Brandada en conserva",
@@ -620,7 +626,7 @@
         "alt": "Ensalada de frutas",
         "nombre": "Ensalada de frutas",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "10 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 10 minutos",
         "ingredientes": [
           "6 hojas de lechuga",
           "6 fresas en láminas finas",
@@ -643,7 +649,7 @@
         "alt": "Pechuga de pollo con verduras",
         "nombre": "Pechuga de pollo con verduras",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "25 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "4 filetes de pechuga de pollo",
           "½ cebolla en plumas",
@@ -668,7 +674,7 @@
         "alt": "Espárragos a la crema",
         "nombre": "Espárragos a la crema",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 lata de champiñones",
           "1 bote de espárragos verdes en conserva",
@@ -690,7 +696,7 @@
         "alt": "Ensalada de alubias y aguacate",
         "nombre": "Ensalada de alubias y aguacate",
         "personas": "Con 8 personas",
-        "tiempo_preparacion": "25 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "300 g de judías blancas cocidas",
           "1 aguacate",
@@ -720,7 +726,7 @@
         "alt": "Tallarines con pollo y verduras",
         "nombre": "Tallarines con pollo y verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "300 g de tallarines",
           "300 g de filetes de pechuga de pollo",
@@ -750,7 +756,7 @@
         "alt": "Espárragos con huevo y vinagreta",
         "nombre": "Espárragos con huevo y vinagreta",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "10 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 10 minutos",
         "ingredientes": [
           "400 g de espárragos blancos en conserva",
           "2 huevos cocidos",
@@ -773,7 +779,7 @@
         "alt": "Tortilla de verduras",
         "nombre": "Tortilla de verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "6 huevos",
           "250 g de judías verdes cocidas",
@@ -797,7 +803,7 @@
         "alt": "Timbal de pavo y espinacas",
         "nombre": "Timbal de pavo y espinacas",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "40 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "300 g de pechuga de pavo en taquitos",
           "500 g de espinacas frescas",
@@ -820,7 +826,7 @@
         "alt": "Arroz integral con verduras",
         "nombre": "Arroz integral con verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "300 g de arroz integral",
           "100 g de judías verdes troceadas",
@@ -845,7 +851,7 @@
         "alt": "Crepes rellenas de espinacas, jamón cocido y queso blanco",
         "nombre": "Crepes rellenas de espinacas, jamón cocido y queso blanco",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "40 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "3 huevos",
           "1 vaso de leche",
@@ -872,7 +878,7 @@
         "alt": "Ensalada Tricolor",
         "nombre": "Ensalada Tricolor",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "200 g de queso fresco cortado en rodajas",
           "4 tomates rojos",
@@ -895,7 +901,7 @@
         "alt": "Atún encebollado con arroz",
         "nombre": "Atún encebollado con arroz",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "600 g de atún fresco",
           "2 cebollas grandes",
@@ -922,7 +928,7 @@
         "alt": "Salmón con Verduras",
         "nombre": "Salmón con Verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "40 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "4 lomos de salmón",
           "½ brócoli en ramitas",
@@ -945,7 +951,7 @@
         "alt": "Espinacas a la crema con almendras",
         "nombre": "Espinacas a la crema con almendras",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "12 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 12 minutos",
         "ingredientes": [
           "250 g de espinacas frescas troceadas",
           "125 ml de leche evaporada",
@@ -968,7 +974,7 @@
         "alt": "Fajitas de carne con pimientos",
         "nombre": "Fajitas de carne con pimientos",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "20 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "2 filetes de ternera a la plancha en tiras",
           "2 tomates en daditos",
@@ -992,7 +998,7 @@
         "alt": "Rollitos de tortilla",
         "nombre": "Rollitos de tortilla",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "4 huevos",
           "150 gr de queso de cabra en rodajas",
@@ -1014,7 +1020,7 @@
         "alt": "Dorada con ajitos",
         "nombre": "Dorada con ajitos",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "1 hora",
+        "tiempo_preparacion": "Tiempo de preparación: 1 hora",
         "ingredientes": [
           "4 doradas de ración limpias y abiertas",
           "8 patatas",
@@ -1043,7 +1049,7 @@
         "alt": "Garbanzos con espinacas",
         "nombre": "Garbanzos con espinacas",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "600 g de garbanzos cocidos escurridos",
           "1 cebolla morada en rodajas finas",
@@ -1071,7 +1077,7 @@
         "alt": "Gratinado de brócoli",
         "nombre": "Gratinado de brócoli",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "15 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "40 g de brócoli",
           "40 g de patatas cocidas",
@@ -1090,7 +1096,7 @@
         "alt": "Judías verdes con cítricos",
         "nombre": "Judías verdes con cítricos",
         "personas": "Con 2 personas",
-        "tiempo_preparacion": "15 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "150 gramos de judías verdes redondas cocidas",
           "100 g de queso roquefort desmenuzado",
@@ -1117,7 +1123,7 @@
         "alt": "Crema de calabaza asada al curry",
         "nombre": "Crema de calabaza asada al curry",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "50 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 kg de calabaza en dados",
           "2 cebolletas",
@@ -1141,7 +1147,7 @@
         "alt": "Huevo con patatas y pimentón",
         "nombre": "Huevo con patatas y pimentón",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "1 hora",
+        "tiempo_preparacion": "Tiempo de preparación: 1 hora",
         "ingredientes": [
           "4 huevos",
           "300 g de patatas cocidas",
@@ -1165,7 +1171,7 @@
         "alt": "Caballa con Verduras",
         "nombre": "Caballa con Verduras",
         "persona": "Con 4 personas",
-        "tiempo_preparacion": "40 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "4 lomos de caballa limpios y sin espinas troceados",
           "1 cebolla picada",
@@ -1190,7 +1196,7 @@
         "alt": "Tortilla de champiñones y jamón",
         "nombre": "Tortilla de champiñones y jamón",
         "persona": "Con 4 personas",
-        "tiempo_preparacion": "30 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "8 huevos",
           "250 gramos de champiñones laminados",
@@ -1212,6 +1218,7 @@
         "alt": "Tallarines de calabacín con setas y huevo",
         "nombre": "Tallarines de calabacín con setas y huevo",
         "persona": "Con 4 personas",
+        "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "250 g de setas shiitake troceadas",
           "4 huevos grandes",
@@ -1234,7 +1241,7 @@
         "alt": "Calamar a la plancha con verduras",
         "nombre": "Calamar a la plancha con verduras",
         "personas": "Con 4 personas",
-        "tiempo_preparacion": "35 minutos",
+        "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "8 calamares medianos limpios",
           "2 dientes de ajo",

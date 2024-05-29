@@ -1,16 +1,12 @@
 export default async function LegalDisclaimer() {
   return (
-    <div className="flex flex-col w-full text-justify container mx-auto my-24 gap-4 px-8 font-notosans">
+    <div className="flex flex-col w-full text-justify container mx-auto my-24 gap-4 px-8">
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-12 justify-center">
-          <h3 className="text-primary-300 text-2xl font-horizon">
-            AVISO LEGAL
-          </h3>
+          <h3 className="text-primary-300 text-2xl">AVISO LEGAL</h3>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
-          <p className="text-primary-100 text-2xl font-semibold">
-            I. INFORMACIÓN GENERAL
-          </p>
+          <p className="text-primary-100 text-2xl">I. INFORMACIÓN GENERAL</p>
           <p className="text-primary-100 text-lg ">
             En cumplimiento con el deber de información dispuesto en la Ley
             34/2002 de Servicios de la Sociedad de la Información y el Comercio
@@ -32,12 +28,12 @@ export default async function LegalDisclaimer() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-100 text-xl font-horizon text-center">
+          <h4 className="text-primary-100 text-xl text-center">
             II. TÉRMINOS Y CONDICIONES GENERALES DE USO
           </h4>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
-          <p className="text-primary-100 text-3xl font-semibold">
+          <p className="text-primary-100 text-3xl">
             El objeto de las condiciones: El Sitio Web
           </p>
         </div>
@@ -82,7 +78,7 @@ export default async function LegalDisclaimer() {
           </p>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
-          <p className="text-primary-100 text-3xl font-semibold ">El Usuario</p>
+          <p className="text-primary-100 text-3xl">El Usuario</p>
         </div>
         <div className="flex flex-col w-full items-start mt-2 gap-4">
           <p className="text-primary-100 text-lg">
@@ -156,7 +152,7 @@ export default async function LegalDisclaimer() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-100 text-xl font-horizon text-center">
+          <h4 className="text-primary-100 text-xl text-center">
             III. ACCESO Y NAVEGACIÓN EN EL SITIO WEB: EXCLUSIÓN DE GARANTÍAS Y
             RESPONSABILIDAD
           </h4>
@@ -191,7 +187,7 @@ export default async function LegalDisclaimer() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-100 text-xl font-horizon text-center">
+          <h4 className="text-primary-100 text-xl text-center">
             IV. POLÍTICA DE ENLACES
           </h4>
         </div>
@@ -265,7 +261,7 @@ export default async function LegalDisclaimer() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-100 text-xl font-horizon text-center">
+          <h4 className="text-primary-100 text-xl text-center">
             V. PROPIEDAD INTELECTUAL E INDUSTRIAL
           </h4>
         </div>
@@ -314,7 +310,7 @@ export default async function LegalDisclaimer() {
       </div>
       <div className="flex flex-col w-full items-center gap-4 mt-8 text-lg">
         <div className="flex w-full my-6 justify-center">
-          <h4 className="text-primary-100 text-xl font-horizon text-center">
+          <h4 className="text-primary-100 text-xl text-center">
             VI. ACCIONES LEGALES, LEGISLACIÓN APLICABLE Y JURISDICCIÓN
           </h4>
         </div>

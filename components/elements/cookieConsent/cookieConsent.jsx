@@ -33,7 +33,7 @@ const CookieConsent = () => {
     return null;
   }
   return (
-    <div className="flex fixed bottom-0 w-96 sm:right-0 h-auto p-4 z-50 font-notosans">
+    <div className="flex fixed bottom-0 w-96 sm:right-0 h-auto p-4 z-50">
       <div className="flex flex-col w-full h-full bg-primary-700 bg-black rounded-xl p-4">
         <div className="flex flex-row w-full h-auto justify-start">
           <p className="text-md font-extralight text-white">
@@ -70,7 +70,7 @@ const CookieConsent = () => {
               acceptConsent();
             }}
             className={`flex px-4 py-3
-            text-white text-lg font-notosans font-semibold justify-center 
+            text-white text-lg font-semibold justify-center 
             rounded-full
             hover:bg-gray-500
             border-[1px] border-white
@@ -83,7 +83,7 @@ const CookieConsent = () => {
               declineConsent();
             }}
             className={`flex px-4 py-3
-            text-white text-lg font-notosans font-semibold justify-center 
+            text-white text-lg font-semibold justify-center 
             rounded-full
             hover:bg-gray-500
             border-[1px] border-white

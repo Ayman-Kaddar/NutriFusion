@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const PrivPolicy = () => {
   return (
-    <div className="container mx-auto my-8 px-4 lg:px-0 font-notosans">
+    <div className="container mx-auto my-8 px-4 lg:px-0">
       <div className="mt-8">
         <h2 className="text-2xl font-bold text-primary-300 text-center">
           Política de privacidad

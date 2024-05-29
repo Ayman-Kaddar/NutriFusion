@@ -3,23 +3,23 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <div className="flex flex-col flex-wrap-reverse md:flex-nowrap w-full h-auto z-10 px-[5%] pb-6 font-notosans bg-black text-white">
+    <div className="flex flex-col flex-wrap-reverse md:flex-nowrap w-full h-auto z-10 px-[5%] pb-6 bg-secondary-300 text-black">
       <div className="flex flex-row flex-wrap-reverse md:flex-nowrap w-full h-auto justify-between">
         <div className="flex flex-col w-1/2 md:w-full h-auto">
-          {/* <div className="hidden sm:flex flex-row mt-6 text-2xl">
+          <div className="hidden sm:flex flex-row mt-6 text-2xl">
             <div className="flex w-auto h-auto items-center">
               <div className="flex cursor-default whitespace-nowrap">
-                Descubre Cataluña
+                Mi Receta Saludable
               </div>
             </div>
-          </div> */}
-          {/* <div className="flex sm:hidden flex-row mt-6 text-lg">
+          </div>
+          <div className="flex sm:hidden flex-row mt-6 text-lg">
             <div className="flex w-auto h-auto items-center">
               <div className="flex flex-col cursor-default whitespace-nowrap">
-                <div className="flex w-auto h-auto">Descubre Cataluña</div>
+                <div className="flex w-auto h-auto">Mi Receta Saludable</div>
               </div>
             </div>
-          </div> */}
+          </div>
           <div className="flex flex-row mt-4 text-lg">
             <div className="flex w-auto h-8 items-center">
               <div className="flex cursor-default whitespace-nowrap">
@@ -27,7 +27,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-row text-lg">
+          <div className="flex flex-row text-lg ">
             <div className="flex w-auto h-8 items-center">
               <div className="flex cursor-default whitespace-nowrap">
                 Email:&nbsp;
@@ -36,7 +36,7 @@ const Footer = () => {
                   alt="mail"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white hover:underline"
+                  className="text-black hover:underline"
                 >
                   info@queverencatalunya.es
                 </a>
