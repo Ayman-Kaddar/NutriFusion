@@ -149,7 +149,7 @@
         "image": "assets/images/SALTEADO_ORIENTAL_DE_TERNERA_CON_VERDURAS.webp",
         "alt": "Salteado oriental de ternera con verduras",
         "nombre": "Salteado oriental de ternera con verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "400 g de filetes finos de ternera, cortados en tiras",
@@ -177,7 +177,7 @@
         "image": "assets/images/TOMATES_RELLENOS_DE_ATÚN_Y_ENCURTIDOS.webp",
         "alt": "Tomates rellenos de atún y encurtidos",
         "nombre": "Tomates rellenos de atún y encurtidos",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "4 tomates",
@@ -198,7 +198,7 @@
         "image": "assets/images/SARDINAS_EN_PAPILLOTE_CON_VERDURAS.webp",
         "alt": "Sardinas en papillote con verduras",
         "nombre": "Sardinas en papillote con verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "½ kg de sardinas en filetes",
@@ -222,7 +222,7 @@
         "image": "assets/images/LASAÑA_VEGETAL.webp",
         "alt": "Lasaña vegetal",
         "nombre": "Lasaña vegetal",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 paquete de placas de lasaña precocida",
@@ -249,7 +249,7 @@
         "image": "assets/images/COLIFLOR_GRATINADA_CON_BESAMEL.webp",
         "alt": "Coliflor gratinada con bechamel",
         "nombre": "Coliflor gratinada con bechamel",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 coliflor",
@@ -273,7 +273,7 @@
         "image": "assets/images/SARTENADA_DE_ARROZ_CON_PIMIENTOS_Y_TOMATITOS.webp",
         "alt": "Sartenada de arroz con pimientos y tomatitos",
         "nombre": "Sartenada de arroz con pimientos y tomatitos",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "320 g de arroz basmati cocido",
@@ -296,7 +296,7 @@
         "image": "assets/images/CREMA_DE_HORTALIZAS_CON_GARBANZOS.webp",
         "alt": "Crema de hortalizas con garbanzos",
         "nombre": "Crema de hortalizas con garbanzos",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 patata pelada",
@@ -327,7 +327,7 @@
         "image": "assets/images/FILETES_DE_PAVO_CON_CHAMPIÑONES.webp",
         "alt": "Filetes de pavo con champiñones",
         "nombre": "Filetes de pavo con champiñones",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "600 g de filetes de pavo",
@@ -353,7 +353,7 @@
         "image": "assets/images/SEPIA_CON_ALCACHOFAS_Y_CHAMPIÑONES.webp",
         "alt": "Sepia con alcachofas y champiñones",
         "nombre": "Sepia con alcachofas y champiñones",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "2 sepias limpias",
@@ -378,7 +378,7 @@
         "image": "assets/images/ENSALADA_MULTICOLOR.webp",
         "alt": "Ensalada Multicolor",
         "nombre": "Ensalada Multicolor",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "Hojas de lechuga",
@@ -401,7 +401,7 @@
         "image": "assets/images/ROLLITOS_DE_TERNERA_CON_VERDURAS.webp",
         "alt": "Rollitos de ternera con verduras",
         "nombre": "Rollitos de ternera con verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 45 minutos",
         "ingredientes": [
           "600 g de filetes de espalda de ternera",
@@ -426,7 +426,7 @@
         "image": "assets/images/PATATAS_RELLENAS_DE_CARNE_PICADA.webp",
         "alt": "Patatas rellenas de carne picada",
         "nombre": "Patatas rellenas de carne picada",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "6 patatas medianas, dependiendo del tamaño",
@@ -451,7 +451,7 @@
         "image": "assets/images/CONEJO_AL_HORNO_CON_PATATAS.webp",
         "alt": "Conejo al horno con patatas",
         "nombre": "Conejo al horno con patatas",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 conejo troceado",
@@ -475,7 +475,7 @@
         "image": "assets/images/CUSCÚS_CON_HUEVO_Y_HORTALIZAS.webp",
         "alt": "Cuscús con huevo y hortalizas",
         "nombre": "Cuscús con huevo y hortalizas",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "400 ml de caldo de verduras",
@@ -505,7 +505,7 @@
         "image": "assets/images/BROCHETAS_DE_PAVO_Y_VERDURAS.webp",
         "alt": "Brochetas de Pavo y Verduras",
         "nombre": "Brochetas de Pavo y Verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación:45 minutos",
         "ingredientes": [
           "750 g de pechuga de pavo en dados",
@@ -526,7 +526,7 @@
         "image": "assets/images/LUBINA_ASADA_CON_LIMA.webp",
         "alt": "Lubina asada con lima",
         "nombre": "Lubina asada con lima",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "2 lubinas limpias (de unos 350 g cada una)",
@@ -555,7 +555,7 @@
         "image": "assets/images/BERENJENAS_RELLENAS.webp",
         "alt": "Berenjenas rellenas",
         "nombre": "Berenjenas rellenas",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "2 berenjenas",
@@ -579,7 +579,7 @@
         "image": "assets/images/CREMA_DE_ZANAHORIA.webp",
         "alt": "Crema de zanahoria",
         "nombre": "Crema de zanahoria",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "½ kg de zanahorias en rodajas",
@@ -604,7 +604,7 @@
         "image": "assets/images/RULOS_DE_CALABACÍN_CON_BRANDADA.webp",
         "alt": "Rulos de calabacín con brandada",
         "nombre": "Rulos de calabacín con brandada",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "2 calabacines medianos cortados en láminas finas",
@@ -625,7 +625,7 @@
         "image": "assets/images/ENSALADA_DE_FRUTAS.webp",
         "alt": "Ensalada de frutas",
         "nombre": "Ensalada de frutas",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 10 minutos",
         "ingredientes": [
           "6 hojas de lechuga",
@@ -648,7 +648,7 @@
         "image": "assets/images/PECHUGA DE POLLO CON VERDURAS.webp",
         "alt": "Pechuga de pollo con verduras",
         "nombre": "Pechuga de pollo con verduras",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "4 filetes de pechuga de pollo",
@@ -673,7 +673,7 @@
         "image": "assets/images/ESPÁRRAGOS_A_LA_CREMA.webp",
         "alt": "Espárragos a la crema",
         "nombre": "Espárragos a la crema",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "1 lata de champiñones",
@@ -695,7 +695,7 @@
         "image": "assets/images/ENSALADA_DE_ALUBIAS_Y_AGUACATE.webp",
         "alt": "Ensalada de alubias y aguacate",
         "nombre": "Ensalada de alubias y aguacate",
-        "personas": "Con 8 personas",
+        "persona": "Con 8 personas",
         "tiempo_preparacion": "Tiempo de preparación: 25 minutos",
         "ingredientes": [
           "300 g de judías blancas cocidas",
@@ -725,7 +725,7 @@
         "image": "assets/images/TALLARINES_CON_POLLO_Y_VERDURAS.webp",
         "alt": "Tallarines con pollo y verduras",
         "nombre": "Tallarines con pollo y verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "300 g de tallarines",
@@ -755,7 +755,7 @@
         "image": "assets/images/ESPÁRRAGOS_CON_HUEVO_Y_VINAGRETA.webp",
         "alt": "Espárragos con huevo y vinagreta",
         "nombre": "Espárragos con huevo y vinagreta",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 10 minutos",
         "ingredientes": [
           "400 g de espárragos blancos en conserva",
@@ -778,7 +778,7 @@
         "image": "assets/images/TORTILLA_DE_VERDURAS.webp",
         "alt": "Tortilla de verduras",
         "nombre": "Tortilla de verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "6 huevos",
@@ -802,7 +802,7 @@
         "image": "assets/images/TIMBAL_DE_PAVO_Y_ESPINACAS.webp",
         "alt": "Timbal de pavo y espinacas",
         "nombre": "Timbal de pavo y espinacas",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "300 g de pechuga de pavo en taquitos",
@@ -825,7 +825,7 @@
         "image": "assets/images/ARROZ_INTEGRAL_CON_VERDURAS.webp",
         "alt": "Arroz integral con verduras",
         "nombre": "Arroz integral con verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "300 g de arroz integral",
@@ -850,7 +850,7 @@
         "image": "assets/images/CREPES_RELLENAS_DE_ESPINACAS_JAMÓN_COCIDO_Y_QUESO_BLANCO.webp",
         "alt": "Crepes rellenas de espinacas, jamón cocido y queso blanco",
         "nombre": "Crepes rellenas de espinacas, jamón cocido y queso blanco",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "3 huevos",
@@ -877,7 +877,7 @@
         "image": "assets/images/ENSALADA_TRICOLOR.webp",
         "alt": "Ensalada Tricolor",
         "nombre": "Ensalada Tricolor",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "200 g de queso fresco cortado en rodajas",
@@ -900,7 +900,7 @@
         "image": "assets/images/ATÚN_ENCEBOLLADO_CON_ARROZ.webp",
         "alt": "Atún encebollado con arroz",
         "nombre": "Atún encebollado con arroz",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "600 g de atún fresco",
@@ -927,7 +927,7 @@
         "image": "assets/images/SALMÓN_CON_VERDURAS.webp",
         "alt": "Salmón con Verduras",
         "nombre": "Salmón con Verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 40 minutos",
         "ingredientes": [
           "4 lomos de salmón",
@@ -950,7 +950,7 @@
         "image": "assets/images/ESPINACAS_A_LA_CREMA_CON_ALMENDRAS.webp",
         "alt": "Espinacas a la crema con almendras",
         "nombre": "Espinacas a la crema con almendras",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 12 minutos",
         "ingredientes": [
           "250 g de espinacas frescas troceadas",
@@ -973,7 +973,7 @@
         "image": "assets/images/FAJITAS_DE_CARNE_CON_PIMIENTOS.webp",
         "alt": "Fajitas de carne con pimientos",
         "nombre": "Fajitas de carne con pimientos",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 20 minutos",
         "ingredientes": [
           "2 filetes de ternera a la plancha en tiras",
@@ -997,7 +997,7 @@
         "image": "assets/images/ROLLITOS_DE_TORTILLA.webp",
         "alt": "Rollitos de tortilla",
         "nombre": "Rollitos de tortilla",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "4 huevos",
@@ -1019,7 +1019,7 @@
         "image": "assets/images/DORADA_CON_AJITOS.webp",
         "alt": "Dorada con ajitos",
         "nombre": "Dorada con ajitos",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 1 hora",
         "ingredientes": [
           "4 doradas de ración limpias y abiertas",
@@ -1048,7 +1048,7 @@
         "image": "assets/images/GARBANZOS_CON_ESPINACAS.webp",
         "alt": "Garbanzos con espinacas",
         "nombre": "Garbanzos con espinacas",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 30 minutos",
         "ingredientes": [
           "600 g de garbanzos cocidos escurridos",
@@ -1076,7 +1076,7 @@
         "image": "assets/images/GRATINADO_DE_BRÓCOLI.webp",
         "alt": "Gratinado de brócoli",
         "nombre": "Gratinado de brócoli",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "40 g de brócoli",
@@ -1095,7 +1095,7 @@
         "image": "assets/images/JUDÍAS_VERDES_CON_CÍTRICOS.webp",
         "alt": "Judías verdes con cítricos",
         "nombre": "Judías verdes con cítricos",
-        "personas": "Con 2 personas",
+        "persona": "Con 2 personas",
         "tiempo_preparacion": "Tiempo de preparación: 15 minutos",
         "ingredientes": [
           "150 gramos de judías verdes redondas cocidas",
@@ -1122,7 +1122,7 @@
         "image": "assets/images/CREMA_DE_CALABAZA_ASADA_AL_CURRY.webp",
         "alt": "Crema de calabaza asada al curry",
         "nombre": "Crema de calabaza asada al curry",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 50 minutos",
         "ingredientes": [
           "1 kg de calabaza en dados",
@@ -1146,7 +1146,7 @@
         "image": "assets/images/HUEVO_CON_PATATAS_Y_PIMENTÓN.webp",
         "alt": "Huevo con patatas y pimentón",
         "nombre": "Huevo con patatas y pimentón",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 1 hora",
         "ingredientes": [
           "4 huevos",
@@ -1240,7 +1240,7 @@
         "image": "assets/images/CALAMAR_A_ LA_PLANCHA_CON_VERDURAS.webp",
         "alt": "Calamar a la plancha con verduras",
         "nombre": "Calamar a la plancha con verduras",
-        "personas": "Con 4 personas",
+        "persona": "Con 4 personas",
         "tiempo_preparacion": "Tiempo de preparación: 35 minutos",
         "ingredientes": [
           "8 calamares medianos limpios",

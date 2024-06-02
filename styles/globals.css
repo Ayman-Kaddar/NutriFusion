@@ -2,19 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-/* HORIZON */
-@font-face {
-  font-family: "Horizon";
-  src: local("horizon"), url(../public/fonts/horizon.otf) format("truetype");
-  font-weight: normal;
-  font-display: swap;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Horizon_outlined";
-  src: local("horizon_outlined"),
-    url(../public/fonts/horizon_outlined.otf) format("truetype");
-  font-weight: normal;
-  font-display: swap;
-  font-style: normal;
-}
+
